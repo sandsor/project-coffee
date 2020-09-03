@@ -20,14 +20,14 @@ int main()
     if (bool answ = true) {
         system("cls");
         std::cout << "Your name is " << Fullname << "\n";
-        std::cout << "you are  " << age << "years old\n";
+        std::cout << "you are " << age << "years old\n";
         std::cout << "It seems you like coffee\n";
         system("pause");
     }
     if (bool answ = false) {
         system("cls");
         std::cout << "Your name is " << Fullname << "\n";
-        std::cout << "you are      " << age << " years old\n";
+        std::cout << "you are " << age << " years old\n";
         std::cout << "It seems you don't like coffee\n";
         system("pause");
     }
